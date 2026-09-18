@@ -1,4 +1,4 @@
-# 🎯 Frontend Challenge: React State Management — Blog & Newsletter Dashboard
+# 🎯 Challenge 2: Blog & Newsletter Dashboard
 
 > Build a fully interactive Blog & Newsletter Admin Dashboard using React state-management tools only.
 >
