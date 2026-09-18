@@ -1,4 +1,4 @@
-# 🎯 Frontend Challenge 2: **Profile Manager & State Management**
+# 🎯 Challenge : **Profile Manager & State Management**
 
 > **Build a Profile Manager application to master React state management using useState, useReducer, useContext, and Zustand.**
 
